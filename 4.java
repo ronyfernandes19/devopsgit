@@ -4,3 +4,4 @@ on 5th april, I learnt how to copy and paste the contents from google. (I made c
 
 Conflit resolved. Hurray!!!!
 
+Im practising git revert command. 
